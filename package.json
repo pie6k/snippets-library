@@ -1,0 +1,11 @@
+{
+  "name": "snippets-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Pietrasiak",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.23",
+    "styled-components": "^5.0.1"
+  }
+}
