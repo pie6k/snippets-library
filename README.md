@@ -1,4 +1,4 @@
-I've been trying to use various app for code snippets managment.
+I've been trying to use various apps for code snippets managment.
 
 In the end none of them worked well for me and I was still finding my self writing the same code like "new react component" over and over again.
 
@@ -21,4 +21,7 @@ Rules:
 2. Formatting matching settings in prettier config file
 3. Generic solutions - snippets should not be adjusted to your personal, specific and non-common needs
 4. Name files extremely well. Name should include all the aspects of what's included in the snippet
-5. Use camelCase for files
+5. use camelCase or PascalCase depending on what's included in the snippet.
+
+- If file includes class/react component etc - use PascalCase
+- If it's just some functional utility - use camelCase
