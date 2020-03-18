@@ -21,6 +21,9 @@ Rules:
 2. Formatting matching settings in prettier config file
 3. Generic solutions - snippets should not be adjusted to your personal, specific and non-common needs
 4. Name files extremely well. Name should include all the aspects of what's included in the snippet
+
+- If file includes jsx/tsx - use proper file extension
+
 5. use camelCase or PascalCase depending on what's included in the snippet.
 
 - If file includes class/react component etc - use PascalCase
